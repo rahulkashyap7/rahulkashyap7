@@ -1,6 +1,4 @@
 ![Header](./github-header-image.png)
-<h1 align="center">Hi 👋, I'm Rahul Kashyap</h1>
-<h3 align="center">A passionate Android & IOS developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://storyset.com/illustration/hand-coding/amico/animate?share=90572">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkashyap7&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkashyap7" /> </p>
