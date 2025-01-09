@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<img align="right" alt="Coding" width="350" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhkODR2Z3VqeDRkaTZoazZnenUzNTRydXljdHQ2bnRlN3ZpMzNhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif">
+<img align="right" alt="Coding" width="330" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXhkODR2Z3VqeDRkaTZoazZnenUzNTRydXljdHQ2bnRlN3ZpMzNhZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zhYSVCirREeIZtONCI/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkashyap7&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkashyap7" /> </p>
 
