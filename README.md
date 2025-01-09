@@ -1,5 +1,5 @@
 ![Header](./github-header-image.png)
-<img align="right" alt="Coding" width="400" src="https://rahulkashyapresume.netlify.app/assets/images/my-avatar.png">
+<img align="right" alt="Coding" width="300" src="https://rahulkashyapresume.netlify.app/assets/images/my-avatar.png">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulkashyap7&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkashyap7" /> </p>
 
