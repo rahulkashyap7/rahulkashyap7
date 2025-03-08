@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Android, IOS, MERN**
 
-- 📫 How to reach me **rahulkashyap97593@gmail.com**
+- 📫 How to reach me **rahulkashyap.global@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
