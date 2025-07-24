@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React Native and DART**
 
-- 👨‍💻 All of my projects are available at [https://rahulkashyapresume.netlify.app/](https://rahulkashyapresume.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://rahulkashyapresume.netlify.app/](its-rahul-kashyap-portfolio.vercel.app)
 
 - 💬 Ask me about **Android, IOS, MERN**
 
