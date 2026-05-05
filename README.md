@@ -13,7 +13,7 @@
 - 🌱 Learning **React Native & Dart**
 - 🧠 Strong in **Android, iOS, MERN Stack**
 - 🎯 Focused on **Product Design + Development**
-- 🌐 Portfolio: https://rahul-portfolio.framer.ai/
+- 🌐 Portfolio: https://its-rahul-kashyap-portfolio.vercel.app/
 - 📫 Email: **rahulkashyap.global@gmail.com**
 
 ---
@@ -24,7 +24,6 @@
 <a href="https://linkedin.com/in/rahulkashyap7" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
 </a>
-
 <a href="https://www.instagram.com/now_rahul_here/" target="_blank">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
 </a>
@@ -34,24 +33,42 @@
 
 ## 🛠️ Tech Stack
 
-<p align="left">
+<h3>🎨 Design</h3>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" width="40"/>
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40"/>
-<img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-<img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" width="40" height="40"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40"/>
+<h3>💻 Frontend</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" width="40"/>
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/>
+  <img src="https://tailwindcss.com/favicons/favicon.ico" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+</p>
 
+<h3>⚙️ Backend & Database</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40"/>
+</p>
+
+<h3>📱 Mobile & Others</h3>
+<p>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40"/>
+</p>
+
+<h3>☁️ Tools & DevOps</h3>
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-scm-icon.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/>
 </p>
 
 ---
