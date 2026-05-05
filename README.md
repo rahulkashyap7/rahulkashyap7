@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently building **HRMS Application**
+- 🔭 Currently building **Startup**
 - 🌱 Learning **React Native & Dart**
 - 🧠 Strong in **Android, iOS, MERN Stack**
 - 🎯 Focused on **Product Design + Development**
-- 🌐 Portfolio: https://its-rahul-kashyap-portfolio.vercel.app/
+- 🌐 Portfolio: https://rahul-portfolio.framer.ai/
 - 📫 Email: **rahulkashyap.global@gmail.com**
 
 ---
